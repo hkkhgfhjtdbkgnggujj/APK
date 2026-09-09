@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cyber brackets [ >_ ] and Matrix core within safe 66dp area (center is 54,54) -->
+    <!-- Left cyber bracket [ -->
+    <path
+        android:pathData="M32,32 L24,32 L24,76 L32,76"
+        android:strokeColor="#00FF41"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="square" />
+
+    <!-- Right cyber bracket ] -->
+    <path
+        android:pathData="M76,32 L84,32 L84,76 L76,76"
+        android:strokeColor="#00FF41"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="square" />
+
+    <!-- Hacker Terminal Prompt ">" -->
+    <path
+        android:pathData="M36,44 L48,54 L36,64"
+        android:strokeColor="#39FF14"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Terminal cursor block "_" -->
+    <path
+        android:pathData="M54,64 L68,64"
+        android:strokeColor="#00FF66"
+        android:strokeWidth="4"
+        android:strokeLineCap="square" />
+
+    <!-- Matrix Code Bit Dots -->
+    <path
+        android:pathData="M42,36 L44,36 M54,36 L58,36 M66,36 L68,36 M44,72 L48,72 M60,72 L64,72"
+        android:strokeColor="#80FF80"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>
